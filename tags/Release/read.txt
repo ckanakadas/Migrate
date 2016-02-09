@@ -1,1 +1,2 @@
 This is the release version of TAgs 
+Included all versions readily
